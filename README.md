@@ -2,8 +2,6 @@
 This application will allow pre-defined "judges" to submit scores for "participants," with results displayed on a public scoreboard.
 # Judge Scoring System - LAMP Stack Implementation
 
-![System Architecture](https://i.imgur.com/JKQlL1D.png)
-
 A complete web application built on Kali Linux using LAMP (Linux, Apache, MySQL, PHP) stack that allows judges to submit scores for participants, with real-time scoreboard display.
 
 ## Features
