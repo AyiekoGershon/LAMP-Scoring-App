@@ -1,0 +1,10 @@
+# Ignore sensitive files
+config/database.php
+/public/assets/
+.htaccess
+.htpasswd
+
+# System files
+.DS_Store
+.idea/
+*.swp
